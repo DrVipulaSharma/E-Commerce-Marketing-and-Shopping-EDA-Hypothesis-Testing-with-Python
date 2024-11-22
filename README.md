@@ -8,8 +8,11 @@ The first dataset contains information on customers visiting the shopping site, 
 The goal is to:
 
 Analyze User Behavior: Understand how users interact with the site, including time spent on pages, bounce rates, and engagement with specific categories.
+
 Identify Influencing Factors: Investigate demographic, marketing, and behavioral features that impact purchase decisions.
+
 Test Hypotheses: Formulate and test data-driven hypotheses to validate assumptions and identify opportunities for optimization.
+
 This analysis will provide valuable insights into user behavior and recommend strategies to enhance customer engagement, improve conversions, and optimize e-commerce performance.
 
 
