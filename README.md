@@ -121,12 +121,19 @@ specifically, the variables provide insights about:
 ## Recommendations Based on the EDA & Hypothesis Testing(Shopping dataset):
 
 ### 1. User Engagement and Content Optimization:
+
 Enhance Engagement for Non-Revenue Users:
+
 Investigate why non-revenue users have lower engagement levels. Improve product-related content to keep them on the site longer and guide them toward purchases.
+
 Focus on Product-Related Pages:
+
 Users who generate revenue spend more time on product-related pages. Enhance these pages with personalized recommendations, engaging visuals, and detailed descriptions.
+
 Monitor and Reduce Bounce/Exit Rates:
+
 Regularly track these rates to identify underperforming pages. Conduct A/B testing to improve retention and reduce drop-offs.
+
 ### 2. Session Length and Conversion Strategies:
 Leverage Long Session Lengths:
 Users with longer session lengths are more likely to convert. Provide interactive features, additional content, or personalized product suggestions to encourage extended browsing.
